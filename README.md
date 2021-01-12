@@ -1,6 +1,6 @@
 
 First, have a look at the demo for the web.
-![](https://github.com/wenjialu/friendsWeb/blob/main/My%20RoboFriends.gif)
+![](https://github.com/wenjialu/friendsWeb/blob/main/My-RoboFriends.gif)
 
 
 
